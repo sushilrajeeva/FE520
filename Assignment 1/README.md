@@ -1,4 +1,4 @@
-# FE520
+# FE520 Assignment 1
 
 # Table of Contents
 
